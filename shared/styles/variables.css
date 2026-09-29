@@ -1,0 +1,27 @@
+:root {
+    --background: #0D1117;
+    --surface: #151B23;
+    --surface-hover: #1C2430;
+    --surface-active: #242E3B;
+
+    --text-primary: #E8EDF3;
+    --text-secondary: #AAB5C3;
+    --text-muted: #788596;
+    --text-disabled: #444C56;
+
+    --border: #293340;
+    --border-hover: #394555;
+
+    --primary: #60A5FA;
+    --primary-hover: #93C5FD;
+    --primary-soft: #172554;
+
+    --success: #4ADE80;
+    --success-soft: #052E16;
+
+    --danger: #F87171;
+    --danger-soft: #450A0A;
+
+    --warning: #FBBF24;
+    --warning-soft: #451A03;
+}
